@@ -31,3 +31,5 @@ getch = _Getch()
 
 while True:
     print(getch())
+
+    # test
